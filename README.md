@@ -1,5 +1,11 @@
-# we-can
+# farhanalam633
 
-Hi Community!
+Hi there👋
 
-Farhan here, I am always ready to learn new things.
+I'm Farhan.
+
+° 👨‍🏫 I'm currently learning C and 🐍 
+° 🎒 CS50 Student
+° 📫 How to reach me: @farhanalam633
+° ⚡ I'm Passionate Photographer
+  
