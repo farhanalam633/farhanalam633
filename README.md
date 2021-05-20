@@ -1,6 +1,4 @@
-# farhanalam633
-
-Hi there👋
+# Hi there👋
 
 I'm Farhan.
 
