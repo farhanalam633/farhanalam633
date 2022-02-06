@@ -12,5 +12,3 @@
   
 ### Connect with me:
 
-[<img align="left" alt="Twitter" | Twitter" width ="22px" scr="https://twitter.com/farhanalam633" />] [Twitter]
-
