@@ -1,6 +1,6 @@
-# Hi there👋
+### Hi there👋
 
-I'm Farhan.
+##I'm Farhan.
 
 ° 👨‍🏫 I'm currently learning C, 🐍, node.js, html5, css3                               
 ° 🎒 CS50 Student.                   
